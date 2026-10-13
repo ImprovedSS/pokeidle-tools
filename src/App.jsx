@@ -11,7 +11,7 @@ const calculators = [
 		category: "PROBABILIDADE",
 		title: "Calculadora de Shiny",
 		description: 
-			"Descubra a chance acumulada de encontra um Shiny após n tentativas.",
+			"Descubra a chance acumulada de encontrar um Shiny após n tentativas.",
 		status: "Disponível",
 		featured: true,
 	},
@@ -155,7 +155,7 @@ function App() {
 							</h1>
 
 							<p className="hero-description">
-								Conjunto de calculadoras e ferramentas para entender as probabilidades, comparar estratégias e tomar decisções melhores no servidor.
+								Conjunto de calculadoras e ferramentas para entender as probabilidades, comparar estratégias e tomar decisões melhores no servidor.
 							</p>
 
 							<a className="primary-button" href="#calculadoras">

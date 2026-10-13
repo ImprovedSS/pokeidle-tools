@@ -10,7 +10,7 @@ function multiplicadorBoost(ativo, bonusEvento) {
 }
 
 function ShinyCalculator() {
-	const [tentativas, setTentativas] = useState("24000");
+	const [tentativas, setTentativas] = useState("10000");
 
 	const [shinyBoost, setShinyBoost] = useState(false);
 	const [kickShinyBoost, setKickShinyBoost] = useState(false);
